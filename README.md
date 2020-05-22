@@ -7,3 +7,10 @@ Projects for the JavaScript30
     * Use of query selector and `querySelectorAll`
     * Playing audio files
     * Transition events
+
+### Project 2: JS and CSS Clock
+  * HTML CSS and JavaScript Clock exercise practices:
+    * DOM manipulation
+    * JavaScript `Date()` method
+    * Dynamicaly styling `div` elements
+    * CSS `transform: rotate()` method
