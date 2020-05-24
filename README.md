@@ -14,3 +14,9 @@ Projects for the JavaScript30
     * JavaScript `Date()` method
     * Dynamicaly styling `div` elements
     * CSS `transform: rotate()` method
+
+### Project 3: CSS Variables
+  * CSS Variables exercise practices:
+    * Hadling HTML5 `input`
+    * Linking JavaScript and CSS variables
+    * Dynamically setting class and style attributes
