@@ -17,6 +17,12 @@ Projects for the JavaScript30
 
 ### Project 3: CSS Variables
   * CSS Variables exercise practices:
-    * Hadling HTML5 `input`
+    * Handling HTML5 `input`
     * Linking JavaScript and CSS variables
     * Dynamically setting class and style attributes
+
+### Project 4: Array Cardio Day
+  * Array Cardio Day practices:
+    * JavaScript `map()` function
+    * JavaScript `filter()` function
+    * JavaScript `reduce()` function
