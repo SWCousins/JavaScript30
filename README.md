@@ -26,3 +26,7 @@ Projects for the JavaScript30
     * JavaScript `map()` function
     * JavaScript `filter()` function
     * JavaScript `reduce()` function
+
+### Project 5: Flex Panel Gallery
+  * Flex Panel Gallery practices
+    
