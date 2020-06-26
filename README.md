@@ -28,5 +28,7 @@ Projects for the JavaScript30
     * JavaScript `reduce()` function
 
 ### Project 5: Flex Panel Gallery
-  * Flex Panel Gallery practices
+  * Flex Panel Gallery practices:
     
+### Project 6: Ajax Type Ahead
+  * Ajax Type Ahead practices:
