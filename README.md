@@ -32,3 +32,11 @@ Projects for the JavaScript30
     
 ### Project 6: Ajax Type Ahead
   * Ajax Type Ahead practices:
+  
+### Project 7: Array Cardio Day 2
+  * Array Cardio Day 2 practices:
+    * ES6 arraow functions
+    * `.some()` function
+    * `.every()` function
+    * `.find()` function
+    * `findIndex()` function
